@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gops82
+- 👋 Hi, I’m Gopinathan
 - 👀 I’m interested in Machine learning and Data sciences
 - 🌱 I’m currently learning Machine learning and LLM
 - 💞️ I’m looking to collaborate on automating manual tasks, data analysis
